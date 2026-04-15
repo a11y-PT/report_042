@@ -11,7 +11,7 @@ status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opçõ
 
 # Relatório de auditoria
 
-Entidade: {{ page.website }}
+Sítio Web: {{ page.website }}
 
 - Data de criação: {{ page.date }}
 - URL: {{ page.uri }}
