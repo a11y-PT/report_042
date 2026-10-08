@@ -2,7 +2,8 @@
 website: "Câmara Municipal de Sátão (sítio Web institucional)"          # Entre as aspas escreve o nome do website
 date: "19/06/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-satao.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://www.cm-satao.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement: "https://www.cm-satao.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "20/08/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Câmara Municipal de Sátão"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "11/08/2026 a 11/08/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
